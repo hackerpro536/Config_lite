@@ -1,5 +1,5 @@
 {
-    "name": "hackerpro536/Config_lite",
+    "name": "hackerpro536/config_lite",
     "type": "library",
     "description": "Config_lite is composer of pear but hard to add repo or pear to composer. So that i move this to packagelist to get from composer require easy. ignore all copyright",
     "keywords": ["Config_lite","Config", "Database", "db", "Configlite","hackerpro536","pear"],
