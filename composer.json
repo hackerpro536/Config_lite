@@ -1,0 +1,22 @@
+{
+    "name": "hackerpro536/Config_lite",
+    "type": "library",
+    "description": "Config_lite is composer of pear but hard to add repo or pear to composer. So that i move this to packagelist to get from composer require easy. ignore all copyright",
+    "keywords": ["Config_lite","Config", "Database", "db", "Configlite","hackerpro536","pear"],
+    "homepage": "https://github.com/hackerpro536/Config_lite",
+    "license": "LGPL-3.0",
+    "authors": [
+        {
+            "name": "Le Van Phu",
+            "email": "hackerpro536@gmail.com",
+            "homepage": "https://github.com/hackerpro536/",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.0.0"
+    },
+    "autoload": {
+        "files": ["Config/Lite.php"]
+    }
+}
